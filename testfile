@@ -1,0 +1,31 @@
+
+
+echo "Hello, world!"
+
+# Define a function
+greet() {
+    echo "Greetings from a function!"
+    }
+
+    # Call the function
+    greet
+
+    # Print the current date and time
+    echo "The current date and time is: $(date)"
+    in/bash
+
+# This is a simple Bash script for testing purposes
+
+echo "Hello, world!"
+
+# Define a function
+greet() {
+    echo "Greetings from a function!"
+}
+
+# Call the function
+greet
+
+# Print the current date and time
+echo "The current date and time is: $(date)"
+
